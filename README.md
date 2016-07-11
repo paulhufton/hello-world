@@ -1,2 +1,5 @@
 # hello-world
-Just another repository.
+
+Hi!
+
+I'm Paul, and I like code snippets a lot.
